@@ -1,0 +1,15 @@
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\AppInterfaces.csproj.AssemblyReference.cache
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\AppInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\AppInterfaces.AssemblyInfoInputs.cache
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\AppInterfaces.AssemblyInfo.cs
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\AppInterfaces.csproj.CoreCompileInputs.cache
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\bin\Debug\net6.0\AppInterfaces.exe
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\bin\Debug\net6.0\AppInterfaces.deps.json
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\bin\Debug\net6.0\AppInterfaces.runtimeconfig.json
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\bin\Debug\net6.0\AppInterfaces.dll
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\bin\Debug\net6.0\AppInterfaces.pdb
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\AppInterfaces.dll
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\refint\AppInterfaces.dll
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\AppInterfaces.pdb
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\AppInterfaces.genruntimeconfig.cache
+F:\ETC\Portfolio Stuff\AppInterfaces\AppInterfaces\obj\Debug\net6.0\ref\AppInterfaces.dll
