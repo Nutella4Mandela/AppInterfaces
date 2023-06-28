@@ -1,2 +1,2 @@
 # AppInterfaces
-Makes a todo list and checks a password to see if it is visible or not.
+This project uses classes to make a to do list and a password checker using properties and methods. I made it so that the to do list uses arrays of string so I can add as many as I want in the program. Password checker is basically just a string, but uses bool to make it visible or not in the program. I've also made it so that you can manually reset it if you want using an interface called IResetable. The other one called IDisplayable just displays the code. I've made them inheritable to PasswordManager class and TodoList class so that it could be easily editable.
